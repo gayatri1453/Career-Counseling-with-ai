@@ -1,2 +1,3 @@
-# Career-Counseling-with-ai
-guide to student to have good career choice for future
+# INTELLIGENT CAREER GUIDANCE SYSTEM
+
+Youtube video link: https://www.youtube.com/watch?v=fMQfYWDIpWU
